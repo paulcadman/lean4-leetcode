@@ -18,3 +18,7 @@ where `name` is given in the following table:
 | -------- | -------------- | --------- | ---------- |
 | [twoSum](https://leetcode.com/problems/two-sum/) | [TwoSum.lean](./Leetcode/TwoSum.lean) |  `twosum-test` | `twosum-bench` |
 | [reverse](https://leetcode.com/problems/reverse-integer/) | [Reverse.lean](./Leetcode/Reverse.lean) |  `reverse-test` | |
+
+## Credits
+
+This code was written with [@awalterschulze](https://github.com/awalterschulze) on his [twitch channel](https://www.twitch.tv/videos/1907381658)
