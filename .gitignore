@@ -1,0 +1,10 @@
+.DS_Store
+build/
+lake-packages/*
+!/lake-packages/manifest.json/build
+/lake-packages/*
+!/lake-packages/manifest.json
+/build
+/lake-packages/*
+!/lake-packages/manifest.json
+prelude/build/
