@@ -21,4 +21,5 @@ where `name` is given in the following table:
 
 ## Credits
 
-This code was written with [@awalterschulze](https://github.com/awalterschulze) on his [twitch channel](https://www.twitch.tv/videos/1907381658)
+This code was written with [@awalterschulze](https://github.com/awalterschulze) on his [twitch channel](https://www.twitch.tv/videos/1907381658).
+The recording of us tackling the initial problems can be found on [youtube](https://www.youtube.com/watch?v=uLvOPhZQ5f4).
